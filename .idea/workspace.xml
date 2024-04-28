@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a39267d-33ad-4a8b-bf60-5d93dd77a0ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TasteMakerProject/TasteMaker/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasteMakerProject/TasteMaker/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasteMakerProject/TasteMaker/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasteMakerProject/TasteMaker/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/another/app/src/androidTest/java/ru/iteco/fmhandroid/ui/LoginAndLogoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/another/app/src/androidTest/java/ru/iteco/fmhandroid/ui/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/lint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/sampledata/note.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/sampledata/posts.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/adapter/ClaimCommentListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/adapter/ClaimListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/adapter/NewsControlPanelAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/adapter/NewsListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/adapter/OurMissionItemListAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/ApiModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/AuthApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/AuthApiModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/AuthInterceptor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/ClaimApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/NetworkModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/NewsApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/RefreshApiModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/RefreshAuthenticator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/RefreshInterceptor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/RefreshTokensApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/UserApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/qualifier/Authorized.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/qualifier/NonAuthorized.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/api/qualifier/Refresh.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/application/FhmApplication.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/auth/AppAuth.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dao/ClaimCommentDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dao/ClaimDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dao/DaoModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dao/NewsDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/db/AppDb.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/db/DbModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/AuthState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/Claim.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/ClaimComment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/FullClaim.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/JwtResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/LoginData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/News.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/RefreshRequest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/SplashScreenData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/dto/User.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/entity/ClaimCommentEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/entity/ClaimEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/entity/NewsEntity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/enum/FragmentsTags.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/exceptions/AppException.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/extensions/NewsCategoryExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/authRepository/AuthRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/authRepository/AuthRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/authRepository/AuthRepositoryModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/claimRepository/ClaimRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/claimRepository/ClaimRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/claimRepository/ClaimRepositoryModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/newsRepository/NewsRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/newsRepository/NewsRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/newsRepository/NewsRepositoryModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/userRepository/UserRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/userRepository/UserRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/repository/userRepository/UserRepositoryModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/AboutFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/AppActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/AuthFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/ClaimListFilteringDialogFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/ClaimListFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/CreateEditClaimCommentFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/CreateEditClaimFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/CreateEditNewsFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/FilterNewsListFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/MainFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/NewsControlPanelFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/NewsListFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/OpenClaimFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/OurMissionFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/SplashScreenFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/viewdata/NewsViewData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/ui/viewdata/OurMissionItemViewData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/utils/Utils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/viewmodel/AuthViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/viewmodel/ClaimCardViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/viewmodel/ClaimViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/viewmodel/NewsControlPanelViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/viewmodel/NewsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/ru/iteco/fmhandroid/viewmodel/OurMissionViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-hdpi/app_background_4000x4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-ldpi/app_background_4000x4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-mdpi/app_background_4000x4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-v24/app_background_4000x4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xhdpi/app_background_4000x4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xxhdpi/app_background_4000x4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable-xxxhdpi/app_background_4000x4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/app_background_4000x4000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/background_splash_screen_title_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/background_splash_screen_title_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/background_splash_screen_title_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/background_splash_screen_title_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/background_splash_screen_title_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/background_splash_screen_title_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/empty_list_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/expand_less_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/expand_more_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_arrow_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_arrow_back_large.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_authorization.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_baseline_check_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_baseline_clear_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_filters_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_gray_triangle_arrow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_main_menu_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_our_mission_21x23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_our_mission_item_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_pen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_pen_light.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_rectangle_381.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_sort_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_status_processing.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_status_processing_non_clickable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/ic_warning_circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/icon_delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/icon_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/image_splashscreen_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/in_hospice_trademark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/our_mission_item_title_background_rounded_corner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/rounded_corner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/drawable/separator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_app.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/claim_filtering_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/container_list_claim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/container_list_news.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_about.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_auth.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_create_edit_claim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_create_edit_comment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_create_edit_news.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_dialog_comment_create.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_filter_news.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_list_claim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_news_control_panel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_news_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_open_claim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_our_mission.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/item_claim.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/item_comment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/item_news.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/item_news_control_panel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/item_our_mission.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/menu_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/top_custom_app_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/authorization.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/menu_claim_status_processing.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/menu/menu_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/navigation/nav_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/icon_advertisement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/icon_birthday.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/icon_gratitude.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/icon_help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/icon_holiday.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/icon_massage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/icon_salary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/raw/icon_union.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values-ru/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/shape.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2fhH9ww3yD35m62roj5wwx4JxIA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a39267d-33ad-4a8b-bf60-5d93dd77a0ac" name="Changes" comment="" />
+      <created>1714246245329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714246245329</updated>
+      <workItem from="1714246247579" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
